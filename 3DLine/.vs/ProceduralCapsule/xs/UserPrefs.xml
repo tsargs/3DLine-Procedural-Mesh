@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{690731D3-8ECD-2763-3DAF-7F1E8007DEDB}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/VRPen.cs">
+    <Files>
+      <File FileName="Assets/Scripts/VRPen.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player.cs" Line="29" Column="5" />
+      <File FileName="Assets/ProceduralCapsule.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/Line.cs" Line="21" Column="25" />
+      <File FileName="Assets/Scripts/VRPenEditor.cs" Line="12" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
